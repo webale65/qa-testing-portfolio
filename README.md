@@ -22,6 +22,10 @@ Quality Assurance Tester focused on ensuring software quality through:
 
 # 📦 Project
 
+Project repository:
+
+https://github.com/No-Country-simulation/S02-26-Equipo12-WebAppDevelopment
+
 **RiderFit – Precision E-commerce for Equestrian Gear**
 
 RiderFit is an intelligent assistant integrated into an e-commerce platform that helps riders choose the correct equipment size by analyzing both **rider measurements** and **horse measurements**.

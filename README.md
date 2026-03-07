@@ -1,5 +1,12 @@
 # QA Testing Portfolio
 
+![QA](https://img.shields.io/badge/Role-QA%20Tester-blue)
+![Testing](https://img.shields.io/badge/Testing-Manual%20Testing-green)
+![API Testing](https://img.shields.io/badge/API-Testing-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-black)
+![Agile](https://img.shields.io/badge/Methodology-Scrum-purple)
+![Gitflow](https://img.shields.io/badge/Gitflow-Workflow-red)
+
 This repository showcases my work as a **Quality Assurance Tester**, including test planning, test case design, bug reporting, API testing, and QA documentation produced during the development of the **RiderFit (FitBot)** project.
 
 The project was developed during a **No Country professional simulation**, working with agile methodology, Gitflow workflow, and collaborative development practices.

@@ -31,7 +31,7 @@ Quality Assurance Tester focused on ensuring software quality through:
 
 Project repository:
 
-https://github.com/No-Country-simulation/S02-26-Equipo12-WebAppDevelopment
+[No Country – RiderFit Project](https://github.com/No-Country-simulation/S02-26-Equipo12-WebAppDevelopment)
 
 **RiderFit – Precision E-commerce for Equestrian Gear**
 
@@ -39,9 +39,32 @@ RiderFit is an intelligent assistant integrated into an e-commerce platform that
 
 The system combines user data with product specifications to generate accurate recommendations.
 
+## Project Context
+
+The QA work documented in this repository was performed during the development of the **RiderFit (FitBot)** project within the **No Country professional simulation**.
+
+The development team worked collaboratively using:
+
+* Agile methodology (Scrum)
+* GitHub for version control and collaboration
+* Gitflow workflow
+* Pull Request based development
+
+My role focused on validating system functionality, reviewing Pull Requests and documenting defects detected during development.
+
 ---
 
-# 🧪 QA Activities Performed
+# 🔎 QA Review Examples
+
+Examples of Pull Requests reviewed during the RiderFit project:
+
+- PR #45 – Login implementation
+- PR #56 – RiderForm validation
+- PR #60 – HorseForm measurements
+
+---
+
+## 🧪 QA Activities Performed
 
 During the project development the following QA activities were performed:
 
@@ -103,10 +126,17 @@ These findings were documented and shared with the development team to improve s
 
 ```
 QA
- ├── QA_Final_Report_RiderFit.pdf
- ├── RiderFit_Bug_Report_QA.pdf
- ├── Test_Cases_RiderFit.xlsx
- └── QA_Traceability_Matrix.xlsx
+ ├── bug-reports
+ │   └── RiderFit_Bug_Report_QA_Alejandro_Alberto.pdf
+ │
+ ├── final-report
+ │   └── QA_Final_Report_RiderFit_Alejandro_Alberto.pdf
+ │
+ ├── test-cases
+ │   └── Test_Cases_RiderFit_TestRail_Alejandro.xlsx
+ │
+ └── traceability-matrix
+     └── QA_Traceability_Matrix_RiderFit_Alejandro.xlsx
 ```
 
 ---

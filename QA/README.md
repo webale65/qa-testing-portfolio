@@ -34,7 +34,7 @@ Main QA responsibilities included:
 
 ## QA Contributions in the RiderFit Project
 
-### Example QA Finding
+### Example QA Finding — RiderForm Measurement Duplication
 
 RiderForm Measurement Duplication
 
@@ -67,6 +67,8 @@ PR #60 – HorseForm measurements
 https://github.com/No-Country-simulation/S02-26-Equipo12-WebAppDevelopment/pull/60
 
 These contributions helped identify architectural inconsistencies, potential defects, and integration issues during development.
+
+Additional QA evidence includes API validation, database consistency checks, UUID/input validation analysis, re-testing activities, and private route protection testing documented in project issues.
 
 ## Pull Request Reviews
 
